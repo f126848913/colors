@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">color</string>
+    <string name="hello">Hello Word!!</string>
+    <string name="R">RED:?</string>
+    <string name="G">GREEN:?</string>
+    <string name="B">BLUE:?</string>
 </resources>
